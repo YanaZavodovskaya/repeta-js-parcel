@@ -1,0 +1,26 @@
+{
+  "name": "repeta-js-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanaZavodovskaya/repeta-js-parcel.git"
+  },
+  "keywords": [],
+  "author": "Yana Zavodovskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanaZavodovskaya/repeta-js-parcel/issues"
+  },
+  "homepage": "https://github.com/YanaZavodovskaya/repeta-js-parcel#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
